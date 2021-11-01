@@ -17,9 +17,6 @@ btn.addEventListener("click", function (e) {
   text.appendChild(ans);
   
   
-  //const displayOriginal = text.style.display;
- // text.style.display = 'none';
-  //text.style.display = displayOriginal;
  
 },
 { once: true 
