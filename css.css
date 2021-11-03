@@ -36,15 +36,7 @@ ul input {
   justify-content: right;
 }
 
-.an {
-width: 60%; 
-padding: 10px 15px;
-font-size: 12px;
-border-radius: 4px;
-border: 1px solid rgb(143, 113, 228);
-box-sizing: border-box;
-}
 
-label{
-    color:rgb(143, 113, 228);
+.no{
+  display: none
 }
